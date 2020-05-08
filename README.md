@@ -1,4 +1,6 @@
-### This project using ReactJs & Meterial-UI
+## This project using ReactJs & Meterial-UI
+## Description
+Search location and show the weather( hight & low temperature) for 5 days
 
 ## Available Scripts
 
